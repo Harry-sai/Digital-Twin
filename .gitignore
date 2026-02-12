@@ -1,0 +1,11 @@
+.env
+.python-version
+uv.lock
+.venv/
+pyproject.toml
+lambda-deployment.zip
+lambda-package/
+memory/
+backend/__pycache__/context.cpython-312.pyc
+backend/__pycache__/resources.cpython-312.pyc
+backend/__pycache__/server.cpython-312.pyc

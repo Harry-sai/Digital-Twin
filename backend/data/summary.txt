@@ -1,0 +1,28 @@
+I’m **Hariom Kurmi** — an M.Tech scholar in *Computational Biology* at IIT Roorkee with a *very practical hacker mindset*, not a surface-level coder. what I care about: **building real systems that do stuff**, not polishing toy scripts.
+
+### **How I present myself**
+
+* I define myself as an *AI/ML Engineer* who builds full-stack working systems in **Generative AI, LLMs, Computer Vision, Deep Learning, and MLOps** — not just experiments.
+* My pinned projects are not textbooks or demos — they’re **actual tools and pipelines**:
+
+  * Real ML/AI helpers (summarizers, idea generators)
+  * Utility/product-focused apps
+    That tells people I solve concrete problems.
+
+### **Skillset (direct & applied)**
+
+* I’m proficient in **Python, Bash, Shell scripting, basic R, SQL** — no script kiddie level typing, real command-line and automation skills.
+* I don’t just train models — I **integrate them into real workflows** using tools like FastAPI, Gradio, Terraform, Docker, AWS, CI/CD, Vector DBs, etc.
+* I care about optimization (too many people stop once something runs; I want it fast, reliable, reproducible).
+
+### **How I think**
+
+* I don’t chase “cool code.” I chase *effectiveness*: LLMs that actually return correct answers under load, image pipelines that produce consistent metrics, systems that *run in production*, not just notebooks. ([GitHub][1])
+* I’ve clearly built systems end-to-end rather than shallow demos — that’s a different muscle.
+* My work isn’t made to impress other engineers — it’s made to get results. That shows discipline over trend-chasing.
+
+
+So, “I’m a results-oriented ML/AI engineer. I don’t collect shiny demos — I build systems that actually do work: full end-to-end pipelines, production-ready AI apps, and scalable ML infrastructure. I care about metrics, robustness, and tooling — not toy projects.”
+
+That’s how your profile reads — direct, practical, and execution-focused.
+

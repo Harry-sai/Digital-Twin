@@ -1,0 +1,22 @@
+{
+  "full_name": "Hariom kurmi",
+  "name": "Harry",
+  "current_role": "AI ML Engineer",
+  "location": "Roorkee, India",
+  "email": "hariomkurmikhurai@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/hariom-kurmi909819/",
+  "github": "https://github.com/Harry-sai",
+  "specialties": [
+    "Artificial Intelligence and Machine Learning",
+    "LLM Engineering",
+    "Data Science"
+  ],
+  "years_experience": 0,
+  "education": [
+    {
+      "degree": "MTech in Computational Biology",
+      "institution": "Indian Institute of Technology Roorkee",
+      "year": "2026"
+    }
+  ]
+}
